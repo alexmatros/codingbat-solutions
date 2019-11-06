@@ -6,6 +6,6 @@
 * String-1 *complete*
 * String-2
 * List-1 - *complete*
-* List-2
+* List-2 - *complete*
 * Logic-1
 * Locic-2
