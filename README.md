@@ -7,5 +7,5 @@
 * String-2 *complete*
 * List-1 *complete*
 * List-2 *complete*
-* Logic-1
+* Logic-1 *complete*
 * Locic-2
